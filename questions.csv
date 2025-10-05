@@ -1,0 +1,101 @@
+Question,Option1,Option2,Option3,Option4,CorrectIndex
+What is the capital of India?,Mumbai,New Delhi,Kolkata,Bangalore,1
+"Which Indian city is known as the 'Silicon Valley of India'?",Hyderabad,Pune,Bangalore,Chennai,2
+Who is known as the 'Father of the Indian Constitution'?,Mahatma Gandhi,Jawaharlal Nehru,Dr. B.R. Ambedkar,Sardar Patel,2
+Which is the national payment interface of India?,NEFT,RTGS,UPI,IMPS,2
+In which year did India gain independence?,1945,1946,1947,1948,2
+Which Indian space mission successfully reached Mars orbit?,Chandrayaan-1,Mangalyaan,Gaganyaan,Aditya L1,1
+What is the currency of India?,Rupee,Dollar,Pound,Euro,0
+Which river is considered the holiest in India?,Yamuna,Godavari,Ganga,Brahmaputra,2
+Who was the first Prime Minister of India?,Dr. Rajendra Prasad,Jawaharlal Nehru,Sardar Patel,Lal Bahadur Shastri,1
+Which is the largest state in India by area?,Maharashtra,Madhya Pradesh,Rajasthan,Uttar Pradesh,2
+What is the national animal of India?,Lion,Tiger,Elephant,Peacock,1
+Which Indian state is known as 'God's Own Country'?,Kerala,Goa,Himachal Pradesh,Kashmir,0
+In which city is the India Gate located?,Mumbai,Kolkata,New Delhi,Chennai,2
+Which is the national sport of India?,Cricket,Hockey,Football,Kabaddi,1
+Who is known as the 'Missile Man of India'?,Vikram Sarabhai,Homi Bhabha,APJ Abdul Kalam,CV Raman,2
+Which Indian city is known as the 'Pink City'?,Jaipur,Udaipur,Jodhpur,Agra,0
+What is the national flower of India?,Rose,Lotus,Marigold,Jasmine,1
+Which monument is also known as the 'Symbol of Love'?,Red Fort,Qutub Minar,Taj Mahal,Charminar,2
+Which Indian IT company was founded by Narayana Murthy?,TCS,Wipro,Infosys,HCL,2
+What is the full form of ISRO?,Indian Space Research Organisation,International Space Research Organisation,Indian Scientific Research Organisation,Indian Space Radio Organisation,0
+Which Indian state produces the most tea?,Kerala,Tamil Nadu,Assam,West Bengal,2
+What is the national bird of India?,Parrot,Peacock,Eagle,Sparrow,1
+Which is the financial capital of India?,New Delhi,Bangalore,Mumbai,Kolkata,2
+Who designed the Indian National Flag?,Mahatma Gandhi,Pingali Venkayya,Rabindranath Tagore,Subhash Chandra Bose,1
+Which Indian festival is known as the 'Festival of Lights'?,Holi,Diwali,Dussehra,Navratri,1
+Which is the highest civilian award in India?,Padma Shri,Padma Bhushan,Bharat Ratna,Padma Vibhushan,2
+What is the literacy rate target of Digital India?,75%,85%,90%,100%,3
+Which Indian company is the largest IT services company?,Infosys,Wipro,TCS,HCL,2
+What is the full form of GST implemented in India?,General Sales Tax,Goods and Services Tax,Government Service Tax,Goods and Sales Tax,1
+Which Indian city hosted the first Formula 1 Grand Prix?,Mumbai,New Delhi,Bangalore,Greater Noida,3
+What does API stand for in software development?,Advanced Programming Interface,Application Programming Interface,Automated Program Integration,Applied Program Interface,1
+Which programming language is primarily used for Android app development?,Swift,Python,Kotlin,Ruby,2
+What does HTML stand for?,Hyper Text Markup Language,High Tech Modern Language,Home Tool Markup Language,Hyperlinks and Text Markup Language,0
+Which company developed the React JavaScript library?,Google,Facebook,Microsoft,Amazon,1
+What is the main purpose of Git in software development?,Database management,Version control,Web hosting,Code compilation,1
+Which technology is used to make web pages interactive?,HTML,CSS,JavaScript,JSON,2
+What does CSS stand for?,Computer Style Sheets,Cascading Style Sheets,Creative Style Sheets,Colorful Style Sheets,1
+Which of the following is a NoSQL database?,MySQL,PostgreSQL,MongoDB,Oracle,2
+What does SQL stand for?,Structured Query Language,Simple Query Language,Standard Query Language,System Query Language,0
+Which programming language is known for artificial intelligence?,Java,Python,C++,Ruby,1
+What is the purpose of DNS?,Store files,Translate domain names to IP addresses,Encrypt data,Send emails,1
+Which company developed the Java programming language?,Microsoft,Apple,Sun Microsystems,IBM,2
+What does IoT stand for?,Internet of Things,Integration of Technology,Internet of Tools,International Technology,0
+Which protocol is used for sending emails?,HTTP,FTP,SMTP,DNS,2
+What is the brain of a computer called?,RAM,Hard Drive,CPU,Motherboard,2
+Which of these is an open-source operating system?,Windows,macOS,Linux,iOS,2
+What does RAM stand for?,Random Access Memory,Read Access Memory,Rapid Access Memory,Remote Access Memory,0
+Which language is used for iOS app development?,Java,Kotlin,Swift,Python,2
+What is the full form of URL?,Universal Resource Locator,Uniform Resource Locator,Universal Reference Link,Uniform Reference Locator,1
+Which company owns GitHub?,Google,Facebook,Microsoft,Amazon,2
+What is cloud computing?,Weather prediction,Storing data in physical servers,Storing and accessing data over the internet,Local storage,2
+Which of these is a front-end framework?,Django,Flask,Angular,Laravel,2
+What does HTTP stand for?,HyperText Transfer Protocol,High Transfer Text Protocol,HyperText Translation Protocol,Home Text Transfer Protocol,0
+Which programming language is known as the 'mother of all languages'?,C,Assembly,Fortran,COBOL,0
+What is the purpose of a compiler?,Run programs,Debug code,Convert code to machine language,Store data,2
+Which company developed the Python programming language?,Microsoft,Google,Guido van Rossum (Individual),Apple,2
+What is the latest version of HTML?,HTML4,HTML5,HTML6,XHTML,1
+Which of these is a back-end programming language?,HTML,CSS,PHP,JavaScript (browser),2
+What does AI stand for?,Automated Intelligence,Artificial Intelligence,Advanced Integration,Automatic Interface,1
+Which data structure uses LIFO principle?,Queue,Stack,Array,Tree,1
+What is the main function of an operating system?,Browse internet,Manage hardware and software,Play games,Edit documents,1
+Which company created the Android operating system?,Apple,Microsoft,Google,Samsung,2
+What does GPU stand for?,General Processing Unit,Graphics Processing Unit,Game Processing Unit,Global Processing Unit,1
+Which protocol is used for secure file transfer?,HTTP,FTP,SFTP,SMTP,2
+What is machine learning?,Robots learning,Computers learning from data,Teaching machines,Building machines,1
+Which of these is a version control system?,Docker,Git,Jenkins,Kubernetes,1
+What does JSON stand for?,JavaScript Object Notation,Java Standard Object Notation,JavaScript Online Notation,Java Object Notation,0
+Which is the fastest searching algorithm?,Linear Search,Binary Search,Bubble Sort,Selection Sort,1
+What is the purpose of cookies in web browsers?,Store viruses,Store user data and preferences,Speed up internet,Block websites,1
+Which company developed TypeScript?,Google,Facebook,Microsoft,Apple,2
+What does VPN stand for?,Virtual Private Network,Virtual Public Network,Verified Private Network,Visual Private Network,0
+Which type of attack involves tricking users into revealing sensitive information?,DDoS Attack,Phishing,SQL Injection,Brute Force,1
+What is the purpose of a firewall in network security?,Speed up internet,Block unauthorized access,Store passwords,Encrypt emails,1
+Which protocol provides secure communication over the internet?,HTTP,FTP,HTTPS,SMTP,2
+What is two-factor authentication (2FA)?,Using two passwords,Using password and a second verification method,Logging in twice,Having two user accounts,1
+Which of the following is a strong password practice?,Using your name,Using 12345678,Using a mix of letters numbers and symbols,Using the same password everywhere,2
+What does malware stand for?,Mail Software,Malicious Software,Main Software,Manual Software,1
+Which attack floods a network with traffic to make it unavailable?,Phishing,DDoS,Spoofing,Ransomware,1
+What is encryption used for in cybersecurity?,Delete files,Protect data by converting it to coded form,Speed up computers,Create backups,1
+Which Indian initiative focuses on digital literacy and cybersecurity awareness?,Make in India,Digital India,Skill India,Start-up India,1
+What is ransomware?,Free software,Malware that demands payment,Antivirus software,Operating system,1
+What does SSL stand for?,Secure Socket Layer,System Security Layer,Safe Socket Link,Secure System Layer,0
+Which port is commonly used for HTTPS?,80,443,22,21,1
+What is social engineering in cybersecurity?,Building networks,Manipulating people to reveal information,Writing code,Designing websites,1
+What is the purpose of antivirus software?,Speed up computer,Detect and remove malware,Browse internet,Edit documents,1
+What does the term 'zero-day' refer to in cybersecurity?,No attacks occurred,Unknown vulnerability,Free security,Daily backups,1
+Which of these is an example of biometric authentication?,Password,PIN,Fingerprint,Security question,2
+What is a botnet?,Robot network,Network of infected computers,Security software,Internet provider,1
+What does IDS stand for in cybersecurity?,Internet Detection System,Intrusion Detection System,Internal Defense System,Information Defense System,1
+Which type of malware disguises itself as legitimate software?,Virus,Worm,Trojan,Spyware,2
+What is the purpose of a honeypot in cybersecurity?,Store data,Trap attackers,Speed up network,Backup files,1
+What does penetration testing involve?,Breaking hardware,Authorized simulated cyber attack,Installing software,Network setup,1
+Which organization is responsible for cybersecurity in India?,ISRO,CERT-In,DRDO,RBI,1
+What is the main goal of a Man-in-the-Middle attack?,Delete files,Intercept communication,Speed up internet,Create backups,1
+What is digital signature used for?,Writing emails,Verify authenticity of digital messages,Drawing online,Scanning documents,1
+Which of these is NOT a type of cyber attack?,Phishing,Vishing,Smishing,Fishing,3
+What is the purpose of a Security Operations Center (SOC)?,Sell software,Monitor and analyze security,Develop applications,Store data,1
+What does GDPR stand for?,General Data Protection Regulation,Global Data Privacy Rule,General Digital Protection Rule,Global Data Protection Regulation,0
+What is the purpose of multi-factor authentication?,Multiple accounts,Extra layer of security,Faster login,Better design,1
+Which of these is a secure password manager?,Notepad,LastPass,Microsoft Word,Email,1

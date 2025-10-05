@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Quiz Application</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="quiz-wrapper" id="quizWrapper">
+            <!-- Start Screen -->
+            <div class="start-screen active" id="startScreen">
+                <h1>Online Quiz Application</h1>
+                <p>Test your knowledge with our interactive quiz!</p>
+                <div class="quiz-info">
+                    <div class="info-item">
+                        <span class="icon">📝</span>
+                        <span>20 Random Questions</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="icon">🎲</span>
+                        <span>From 100+ questions</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="icon">⏱️</span>
+                        <span>15 seconds each</span>
+                    </div>
+                </div>
+                <div class="quiz-topics">
+                    <p class="topics-title">Topics Covered:</p>
+                    <div class="topic-tags">
+                        <span class="topic-tag">🇮🇳 India (30)</span>
+                        <span class="topic-tag">💻 Technology (40)</span>
+                        <span class="topic-tag">🔒 Cyber Security (30)</span>
+                    </div>
+                    <p class="random-note">✨ 20 questions randomly selected from 100+ question bank</p>
+                </div>
+                <button class="btn-start" id="startBtn">Start Quiz</button>
+            </div>
+
+            <!-- Quiz Screen -->
+            <div class="quiz-screen" id="quizScreen">
+                <div class="quiz-header">
+                    <div class="progress-bar">
+                        <div class="progress" id="progress"></div>
+                    </div>
+                    <div class="quiz-stats">
+                        <span class="question-number">Question <span id="currentQuestion">1</span> of <span id="totalQuestions">20</span></span>
+                        <span class="timer" id="timer">15s</span>
+                    </div>
+                </div>
+
+                <div class="quiz-body">
+                    <h2 class="question" id="question">Question will appear here</h2>
+                    <div class="options" id="options">
+                        <!-- Options will be inserted here dynamically -->
+                    </div>
+                </div>
+
+                <button class="btn-next" id="nextBtn" disabled>Next Question</button>
+            </div>
+
+            <!-- Result Screen -->
+            <div class="result-screen" id="resultScreen">
+                <div class="result-icon" id="resultIcon">🎉</div>
+                <h2 class="result-title" id="resultTitle">Quiz Completed!</h2>
+                <div class="score-display">
+                    <div class="score-circle">
+                        <span class="score-text" id="scoreText">0/20</span>
+                    </div>
+                </div>
+                <div class="result-details">
+                    <div class="detail-item correct">
+                        <span class="detail-label">Correct Answers</span>
+                        <span class="detail-value" id="correctCount">0</span>
+                    </div>
+                    <div class="detail-item wrong">
+                        <span class="detail-label">Wrong Answers</span>
+                        <span class="detail-value" id="wrongCount">0</span>
+                    </div>
+                    <div class="detail-item percentage">
+                        <span class="detail-label">Percentage</span>
+                        <span class="detail-value" id="percentageValue">0%</span>
+                    </div>
+                </div>
+                <div class="result-actions">
+                    <button class="btn-restart" id="restartBtn">Restart Quiz</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
